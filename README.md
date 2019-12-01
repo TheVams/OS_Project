@@ -1,2 +1,1 @@
-# College-projects
-Source code for most of the college projects I have done.
+Operating Systems course project. Implementing pipes using shared memory .
